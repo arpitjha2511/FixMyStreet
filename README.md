@@ -5,8 +5,8 @@ FixMyStreet is a comprehensive solution for tracking, reporting, and prioritizin
 This project demonstrates an end-to-end solution for public infrastructure management, making it easier for municipalities to handle urgent road repairs and improve public safety.
 
 ## Repository Links
-- **[Frontend Repository](https://github.com/username/frontend-repo)**
-- **[Backend Repository](https://github.com/username/backend-repo)**
+- **[Frontend Repository](https://github.com/arpitjha2511/FixMyStreet-Frontend)**
+- **[Backend Repository](https://github.com/arpitjha2511/FixMyStreet-Backend)**
 
 ## Overview
 This project automates and streamlines the process of identifying and resolving pothole issues:
