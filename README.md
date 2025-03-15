@@ -25,7 +25,7 @@ This project automates and streamlines the process of identifying and resolving 
 ## Tech Stack
 - **Backend**: Node.js, Express, MongoDB, Multer, Webhooks
 - **Frontend**: React, Bootstrap, Axios
-- **AI Server**: Python, TensorFlow (or appropriate framework for model inference)
+- **AI Server**:  OpenCV, YOLO v8 and PyTorch
 - **Database**: MongoDB for flexible document storage
 
 ## How to Use
